@@ -12,4 +12,4 @@ PLS-DA in the machine learning classification.
 
 
 to run the file unzip the folder and run the balanced_data_analysis file and for the ML file its under  jypter source file wine_qulity_2
-and there this a pdf file explaining the analysis and the result.
+and there is a pdf file explaining the analysis and the result.
